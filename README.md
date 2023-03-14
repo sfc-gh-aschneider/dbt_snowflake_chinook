@@ -1,5 +1,5 @@
 
-# dbt_duckdb_chinook
+# dbt_snowflake_chinook
 dbt-duckdb playground using Chinook dataset.
 
 ## Usage
